@@ -1,0 +1,57 @@
+.fullbody{
+    background-color: #16a085;
+    color:#fff;
+    box-shadow: 0px 0px 5px 5px  rgba(0, 0, 0, 0.314);
+    margin-top: 10px;
+}
+
+.piccard{
+    background-color: #d35400;
+    color: #000;
+}
+
+.rowbox{
+
+}
+
+.product_box{
+    background-color: #d35400;
+   
+}
+
+.amrimg img{
+    object-fit: cover;
+    width: 210px;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+}
+
+.torkari_img{
+    width: 250px;
+}
+.proimg img{
+    object-fit: cover;
+}
+.price{
+    text-decoration: line-through;
+   
+    text-align: left ;
+}
+.sale{
+   
+    text-align: left;
+}
+.sobjicard{
+    background-color: black;
+    color: #fff;
+}
+
+.outputAge{
+    font-size: 60px;
+    font-weight: 600;
+    margin-left: 60px;
+}
+
